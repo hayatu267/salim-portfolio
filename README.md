@@ -88,6 +88,6 @@ My goal is to become an AI/ML and Robotics Engineer, focusing on autonomous dron
 
 Email: hayatikhattak267@gmail.com
 
-GitHub: Add your GitHub link here
+GitHub: 
 
-LinkedIn: Add your LinkedIn link here
+LinkedIn: https://www.linkedin.com/in/salim-hayat-bb3405252/
